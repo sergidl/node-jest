@@ -1,8 +1,8 @@
 {
-  "name": "introduccion-node",
+  "name": "introduccion-node-jest",
   "version": "1.0.0",
   "type": "module",
-  "description": "Intro Node curso Back-end Web",
+  "description": "Intro Node jest",
   "main": "index.js",
   "scripts": {
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
